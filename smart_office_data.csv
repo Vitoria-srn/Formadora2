@@ -1,4 +1,4 @@
-timestamp	sensor_id	type	value 
+timestamp	sensor_id	type	value
 28/09/2025 00:15	temp-01	temperatura_c	1994
 28/09/2025 00:15	lux-01	luminosidade_lux	96
 28/09/2025 00:15	occ-01	ocupacao_bool	0
